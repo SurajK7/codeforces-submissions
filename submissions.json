@@ -1,4 +1,21 @@
 {
+  "CF100473933": {
+    "contest_id": 1062,
+    "language": "GNU C++17",
+    "path": "codeforces\\1062\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Math",
+    "problem_url": "https://codeforces.com/contest/1062/problem/B",
+    "submission_id": "CF100473933",
+    "submission_url": "https://codeforces.com/contest/1062/submission/100473933",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Dec/05/2020 23:46"
+  },
   "CF100536336": {
     "contest_id": 1408,
     "language": "GNU C++17",
