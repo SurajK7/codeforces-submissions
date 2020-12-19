@@ -1,4 +1,20 @@
 {
+  "CF101801457": {
+    "contest_id": 1425,
+    "language": "GNU C++17",
+    "path": "codeforces\\1425\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Arena of Greed",
+    "problem_url": "https://codeforces.com/contest/1425/problem/A",
+    "submission_id": "CF101801457",
+    "submission_url": "https://codeforces.com/contest/1425/submission/101801457",
+    "tags": [
+      "games",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Dec/20/2020 01:14"
+  },
   "CF101837307": {
     "contest_id": 1463,
     "language": "GNU C++17",
