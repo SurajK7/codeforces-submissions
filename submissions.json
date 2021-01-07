@@ -1,4 +1,19 @@
 {
+  "CF103590783": {
+    "contest_id": 61,
+    "language": "GNU C++17",
+    "path": "codeforces\\61\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Ultra-Fast Mathematician",
+    "problem_url": "https://codeforces.com/contest/61/problem/A",
+    "submission_id": "CF103590783",
+    "submission_url": "https://codeforces.com/contest/61/submission/103590783",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/07/2021 05:48"
+  },
   "CF103590905": {
     "contest_id": 233,
     "language": "GNU C++17",
