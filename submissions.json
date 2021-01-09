@@ -763,6 +763,24 @@
     ],
     "timestamp": "Jan/07/2021 07:14"
   },
+  "CF103840798": {
+    "contest_id": 199,
+    "language": "GNU C++17",
+    "path": "codeforces\\199\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Hexadecimal's theorem",
+    "problem_url": "https://codeforces.com/contest/199/problem/A",
+    "submission_id": "CF103840798",
+    "submission_url": "https://codeforces.com/contest/199/submission/103840798",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Jan/09/2021 08:16"
+  },
   "CF103841371": {
     "contest_id": 352,
     "language": "GNU C++17",
