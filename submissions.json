@@ -1299,6 +1299,22 @@
     ],
     "timestamp": "Jan/10/2021 02:10"
   },
+  "CF103922752": {
+    "contest_id": 959,
+    "language": "GNU C++17",
+    "path": "codeforces\\959\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Mahmoud and Ehab and the even-odd game",
+    "problem_url": "https://codeforces.com/contest/959/problem/A",
+    "submission_id": "CF103922752",
+    "submission_url": "https://codeforces.com/contest/959/submission/103922752",
+    "tags": [
+      "games",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/10/2021 06:02"
+  },
   "CF103922825": {
     "contest_id": 935,
     "language": "GNU C++17",
