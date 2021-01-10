@@ -1299,6 +1299,21 @@
     ],
     "timestamp": "Jan/10/2021 02:10"
   },
+  "CF103924198": {
+    "contest_id": 849,
+    "language": "GNU C++17",
+    "path": "codeforces\\849\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Odds and Ends",
+    "problem_url": "https://codeforces.com/contest/849/problem/A",
+    "submission_id": "CF103924198",
+    "submission_url": "https://codeforces.com/contest/849/submission/103924198",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Jan/10/2021 07:20"
+  },
   "CF103990488": {
     "contest_id": 1453,
     "language": "GNU C++17",
