@@ -1299,6 +1299,21 @@
     ],
     "timestamp": "Jan/10/2021 02:10"
   },
+  "CF103922879": {
+    "contest_id": 1186,
+    "language": "GNU C++17",
+    "path": "codeforces\\1186\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Vus the Cossack and a Contest",
+    "problem_url": "https://codeforces.com/contest/1186/problem/A",
+    "submission_id": "CF103922879",
+    "submission_url": "https://codeforces.com/contest/1186/submission/103922879",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/10/2021 06:09"
+  },
   "CF103922936": {
     "contest_id": 897,
     "language": "GNU C++17",
