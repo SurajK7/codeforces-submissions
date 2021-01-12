@@ -1299,6 +1299,21 @@
     ],
     "timestamp": "Jan/10/2021 02:10"
   },
+  "CF104120732": {
+    "contest_id": 1452,
+    "language": "GNU C++17",
+    "path": "codeforces\\1452\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Two Brackets",
+    "problem_url": "https://codeforces.com/contest/1452/problem/C",
+    "submission_id": "CF104120732",
+    "submission_url": "https://codeforces.com/contest/1452/submission/104120732",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jan/12/2021 20:01"
+  },
   "CF104123970": {
     "contest_id": 1447,
     "language": "GNU C++17",
