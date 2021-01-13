@@ -1,8 +1,3 @@
-/*
-	Author : GouenjiShuuya
-	Time : 20:39:23, 15/01/2021
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
  
@@ -107,18 +102,33 @@ tcTU> void erase(T& t, const U& u) { // don't erase
 	auto it = t.find(u); assert(it != end(t));
 	t.erase(it); } // element that doesn't exist from (multi)set
 
+template<typename T>
+ostream& operator+(ostream& out, const vector<T> &vec){
+    for(const auto &x : vec){
+        out<<x<<" ";
+    }
+    out<<"\n";
+    return out;
+}
+template<typename T>
+ostream& operator*(ostream& out, const vector<T> &vec){
+    for(const auto &x : vec){
+        out+x;
+    }
+    return out;
+}
+template<typename T>
+istream& operator>>(istream& in, vector<T> &vec){
+    for(auto &x : vec){
+        in>>x;
+    }
+    return in;
+}
+
 #define DEB(x) cout << '>' << #x << ':' << x << endl; 
 #define el '\n'
 
-void solve(){
-	int n; cin >> n;
-	vi arr(n); trav(i, arr) cin >> i;
-	R0F(i, n){
-		if (i<n/2) cout << -arr[i] << " ";
-		else cout << arr[i] << " ";
-	}
-	cout << el;
-}
+void solve();
 
 int main() 
 {
@@ -126,4 +136,18 @@ int main()
 	int t=1; 
 	cin >> t;
 	while(t--) solve();
+}
+
+// DON'T BE AN IDIOT
+// INT OVEFLOW CHECK KAR; BHOSDIKE
+
+void solve(){
+    int n; cin >> n;
+    vi arr(n);
+    cin >> arr;
+    R0F(i, n)
+    {
+        cout << (i<n/2 ? -arr[i] : arr[i]) << " ";
+    }
+    cout << endl;
 }
