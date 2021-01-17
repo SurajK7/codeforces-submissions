@@ -12,19 +12,20 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-125 | [B - GCD Compression](https://codeforces.com/contest/1370/problem/B) | [GNU C++17](./codeforces/1370/B.cpp) | `constructive algorithms` `math` `number theory` `*1100` | Jan/18/2021 21:08 | 
-124 | [A - Sign Flipping](https://codeforces.com/contest/1375/problem/A) | [GNU C++17](./codeforces/1375/A.cpp) | `constructive algorithms` `math` `*1100` | Jan/18/2021 13:47 | 
-123 | [B - Sequential Nim](https://codeforces.com/contest/1382/problem/B) | [GNU C++17](./codeforces/1382/B.cpp) | `dp` `games` `*1100` | Jan/18/2021 13:38 | 
-122 | [C - Increase and Copy](https://codeforces.com/contest/1426/problem/C) | [GNU C++17](./codeforces/1426/C.cpp) | `binary search` `constructive algorithms` `math` `*1100` | Jan/18/2021 13:09 | 
-121 | [A - String Similarity](https://codeforces.com/contest/1400/problem/A) | [GNU C++17](./codeforces/1400/A.cpp) | `constructive algorithms` `strings` `*800` | Jan/18/2021 07:26 | 
-120 | [B - Minimum Product](https://codeforces.com/contest/1409/problem/B) | [GNU C++17](./codeforces/1409/B.cpp) | `brute force` `greedy` `math` `*1100` | Jan/18/2021 06:47 | 
-119 | [B - Repainting Street](https://codeforces.com/contest/1415/problem/B) | [GNU C++17](./codeforces/1415/B.cpp) | `brute force` `brute force` `greedy` `*1100` | Jan/18/2021 06:24 | 
-118 | [B - Two Arrays](https://codeforces.com/contest/1417/problem/B) | [GNU C++17](./codeforces/1417/B.cpp) | `greedy` `math` `sortings` `*1100` | Jan/18/2021 06:06 | 
-117 | [B - Ternary Sequence](https://codeforces.com/contest/1401/problem/B) | [GNU C++17](./codeforces/1401/B.cpp) | `constructive algorithms` `greedy` `math` `*1100` | Jan/18/2021 05:05 | 
-116 | [B - Putting Bricks in the Wall](https://codeforces.com/contest/1421/problem/B) | [GNU C++17](./codeforces/1421/B.cpp) | `constructive algorithms` `implementation` `*1100` | Jan/18/2021 04:48 | 
-115 | [B - Square?](https://codeforces.com/contest/1351/problem/B) | [GNU C++17](./codeforces/1351/B.cpp) | `brute force` `implementation` `math` `*900` | Jan/17/2021 21:52 | 
-114 | [A - Alarm Clock](https://codeforces.com/contest/1354/problem/A) | [GNU C++17](./codeforces/1354/A.cpp) | `math` `*900` | Jan/17/2021 21:34 | 
-113 | [B - 01 Game](https://codeforces.com/contest/1373/problem/B) | [GNU C++17](./codeforces/1373/B.cpp) | `games` `*900` | Jan/17/2021 21:26 | 
+126 | [B - GCD Compression](https://codeforces.com/contest/1370/problem/B) | [GNU C++17](./codeforces/1370/B.cpp) | `constructive algorithms` `math` `number theory` `*1100` | Jan/18/2021 21:08 | 
+125 | [A - Sign Flipping](https://codeforces.com/contest/1375/problem/A) | [GNU C++17](./codeforces/1375/A.cpp) | `constructive algorithms` `math` `*1100` | Jan/18/2021 13:47 | 
+124 | [B - Sequential Nim](https://codeforces.com/contest/1382/problem/B) | [GNU C++17](./codeforces/1382/B.cpp) | `dp` `games` `*1100` | Jan/18/2021 13:38 | 
+123 | [C - Increase and Copy](https://codeforces.com/contest/1426/problem/C) | [GNU C++17](./codeforces/1426/C.cpp) | `binary search` `constructive algorithms` `math` `*1100` | Jan/18/2021 13:09 | 
+122 | [A - String Similarity](https://codeforces.com/contest/1400/problem/A) | [GNU C++17](./codeforces/1400/A.cpp) | `constructive algorithms` `strings` `*800` | Jan/18/2021 07:26 | 
+121 | [B - Minimum Product](https://codeforces.com/contest/1409/problem/B) | [GNU C++17](./codeforces/1409/B.cpp) | `brute force` `greedy` `math` `*1100` | Jan/18/2021 06:47 | 
+120 | [B - Repainting Street](https://codeforces.com/contest/1415/problem/B) | [GNU C++17](./codeforces/1415/B.cpp) | `brute force` `brute force` `greedy` `*1100` | Jan/18/2021 06:24 | 
+119 | [B - Two Arrays](https://codeforces.com/contest/1417/problem/B) | [GNU C++17](./codeforces/1417/B.cpp) | `greedy` `math` `sortings` `*1100` | Jan/18/2021 06:06 | 
+118 | [B - Ternary Sequence](https://codeforces.com/contest/1401/problem/B) | [GNU C++17](./codeforces/1401/B.cpp) | `constructive algorithms` `greedy` `math` `*1100` | Jan/18/2021 05:05 | 
+117 | [B - Putting Bricks in the Wall](https://codeforces.com/contest/1421/problem/B) | [GNU C++17](./codeforces/1421/B.cpp) | `constructive algorithms` `implementation` `*1100` | Jan/18/2021 04:48 | 
+116 | [B - Square?](https://codeforces.com/contest/1351/problem/B) | [GNU C++17](./codeforces/1351/B.cpp) | `brute force` `implementation` `math` `*900` | Jan/17/2021 21:52 | 
+115 | [A - Alarm Clock](https://codeforces.com/contest/1354/problem/A) | [GNU C++17](./codeforces/1354/A.cpp) | `math` `*900` | Jan/17/2021 21:34 | 
+114 | [B - 01 Game](https://codeforces.com/contest/1373/problem/B) | [GNU C++17](./codeforces/1373/B.cpp) | `games` `*900` | Jan/17/2021 21:26 | 
+113 | [A - Road To Zero](https://codeforces.com/contest/1342/problem/A) | [GNU C++17](./codeforces/1342/A.cpp) | `greedy` `math` `*1000` | Jan/17/2021 11:33 | 
 112 | [A - Subtract or Divide](https://codeforces.com/contest/1451/problem/A) | [GNU C++17](./codeforces/1451/A.cpp) | `greedy` `math` `*800` | Jan/13/2021 01:19 | 
 111 | [B - Non-Substring Subsequence](https://codeforces.com/contest/1451/problem/B) | [GNU C++17](./codeforces/1451/B.cpp) | `dp` `greedy` `implementation` `strings` `*900` | Jan/13/2021 00:32 | 
 110 | [A - Robot Program](https://codeforces.com/contest/1452/problem/A) | [GNU C++17](./codeforces/1452/A.cpp) | `math` `*800` | Jan/12/2021 23:42 | 
